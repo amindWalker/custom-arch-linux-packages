@@ -1,5 +1,9 @@
 # Base
 bash
+fish
+nushell
+tree
+zram-generator
 bzip2
 coreutils
 file
@@ -27,9 +31,6 @@ util-linux
 xz
 
 # Manjaro
-fish
-zram-generator
-tree
 >multilib gcc-libs-multilib
 acpi
 acpid
@@ -97,4 +98,3 @@ wget
 which
 wpa_supplicant
 xfsprogs
-
