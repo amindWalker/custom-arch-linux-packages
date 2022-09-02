@@ -8,3 +8,13 @@ mkinitcpio-nfs-utils
 nbd
 clonezilla
 virtualbox-guest-utils
+zram-generator
+vulkan-tools
+>nonfree_x86_64 KERNEL-nvidia
+>nonfree_x86_64 nvidia-utils
+>nonfree_x86_64 libxnvctrl
+nvidia-prime
+primus
+>multilib lib32-primus
+bumblebee
+KERNEL-bbswitch
