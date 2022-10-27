@@ -237,9 +237,6 @@ lollypop
 >extra gnuchess                    # optional for gnome-chess to play against computer
 gnome-browser-connector
 >extra deja-dup
-## Handpicked
-rustup
-rnote
 
 ## Optional dependencies for file-roller
 >extra p7zip
@@ -277,6 +274,28 @@ xorg-xinit
 # manjaro-ranger-settings          # dependency atool only in AUR
 >extra bmenu
 
+## Rust section
+rustup
+rnote
+dua-cli
+ripgrep
+ripgrep-all
+nushell
+# spotify-launcher
+# helix
+# rustdesk
+# exa
+# git-delta
+# fd
+# bandwhich
+# procs
+# sd
+# tealdeer
+# dust
+# hyperfine
+# xh
+# gitui
+
 ## Custom Extra Software
 # nvidia-dkms
 # nvidia-utils
@@ -290,12 +309,6 @@ xorg-xinit
 # krita
 # dbeaver
 # firejail
-# spotify-launcher
-# helix
-# rustdesk
-# ripgrep
-# ripgrep-all
-# nushell
 kooha
 
 ## Custom Extra AUR
@@ -307,15 +320,3 @@ kooha
 # AUR fontdownloader
 # AUR plots
 # AUR lorem
-# AUR ripgrep
-# AUR exa
-# AUR git-delta
-# AUR fd
-# AUR bandwhich
-# AUR procs
-# AUR sd
-# AUR tealdeer
-# AUR dust
-# AUR hyperfine
-# AUR xh
-# AUR gitui
