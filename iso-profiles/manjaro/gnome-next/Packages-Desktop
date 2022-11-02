@@ -77,7 +77,7 @@ gnome-system-monitor
 #epiphany                          # Firefox included as default browser
 #gnome-screenshot                  # New screenshot tool integrated
 #totem
-celulloid
+celluloid
 gnome-weather
 >basic gdm                         # gdm-plymouth in full edition
 gnome-backgrounds
