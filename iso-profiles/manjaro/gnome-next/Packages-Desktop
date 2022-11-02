@@ -125,7 +125,7 @@ gnome-tweaks
 #gnome-usage
 #gnome-sound-recorder
 #>extra gnome-todo
-endeavour
+gnome-endeavour
 #accerciser
 #gnome-builder
 #gnome-connections
@@ -340,14 +340,14 @@ retroarch
 # AUR goverlay
 
 ## Custom Extra AUR
-openrgb-bin
-python-proton-client
-python-protonvpn-nm-lib
-protonvpn-gui
-code-features
-zenith-bin
-python-pynput
-rustdesk-bin
+# openrgb-bin
+# python-proton-client
+# python-protonvpn-nm-lib
+# protonvpn-gui
+# code-features
+# zenith-bin
+# python-pynput
+# rustdesk-bin
 # AUR sc-controller
 # AUR zrythm
 # AUR devdocs
