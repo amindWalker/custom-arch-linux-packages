@@ -288,7 +288,6 @@ dua-cli
 ripgrep
 ripgrep-all
 nushell
-rustdesk
 exa
 fd
 procs
@@ -299,7 +298,7 @@ dust
 hyperfine
 xh
 gitui
-# git-delta
+git-delta
 
 ## Custom Extra Software
 spotify-launcher
@@ -308,8 +307,10 @@ linux-clear-headers-bin
 nvidia-dkms
 virt-manager
 vulkan-tools
-# nvidia-dkms
-# nvidia-utils
+kooha
+obsidian
+nvidia-dkms
+nvidia-utils
 # lib32-nvidia-utils
 # lib32-opencl-nvidia
 # opencl-nvidia
@@ -326,13 +327,31 @@ vulkan-tools
 # clapper
 # vapoursynth
 # bespokesynth
-kooha
+
+## Gaming Add-ons
+steam
+lutris
+gamemode
+gamescope
+mangohud
+wine-staging
+retroarch
+# AUR protonup-qt
+# AUR goverlay
 
 ## Custom Extra AUR
-# AUR linux-clear-bin
-# AUR linux-clear-headers-bin
+openrgb-bin
+python-proton-client
+python-protonvpn-nm-lib
+protonvpn-gui
+code-features
+zenith-bin
+python-pynput
+rustdesk-bin
+# AUR sc-controller
+# AUR zrythm
 # AUR devdocs
-# AUR constrast
+# AUR contrast
 # AUR gaphor
 # AUR fontdownloader
 # AUR plots
