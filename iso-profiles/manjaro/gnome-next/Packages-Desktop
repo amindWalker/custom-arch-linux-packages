@@ -311,6 +311,7 @@ kooha
 obsidian
 nvidia-dkms
 nvidia-utils
+nvtop
 # lib32-nvidia-utils
 # lib32-opencl-nvidia
 # opencl-nvidia
