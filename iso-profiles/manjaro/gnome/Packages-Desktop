@@ -306,10 +306,10 @@ obsidian
 nvtop
 docker
 krita
-nvidia-dkms
 ventoy
 pinta
 aria2
+# nvidia-dkms
 # nvidia-utils
 # lib32-nvidia-utils
 # lib32-opencl-nvidia
