@@ -305,6 +305,8 @@ docker
 krita
 nvidia-dkms
 ventoy
+pinta
+aria2
 # nvidia-utils
 # lib32-nvidia-utils
 # lib32-opencl-nvidia
