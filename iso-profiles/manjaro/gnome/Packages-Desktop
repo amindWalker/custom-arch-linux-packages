@@ -288,6 +288,7 @@ gitui
 git-delta
 
 ## Custom Extra Software
+downgrade
 gnome-console
 gnome-text-editor
 celluloid
