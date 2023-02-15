@@ -308,6 +308,8 @@ kooha
 obsidian
 nvtop
 docker
+docker-compose
+docker-buildx
 krita
 ventoy
 pinta
